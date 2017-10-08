@@ -69,20 +69,5 @@ public class ExcelReadWrite {
 	return data;
 	
 	}
-public static void main(String args[]) throws IOException
-{
-	ExcelReadWrite excel = new ExcelReadWrite();
-	String ExcelLocation = System.getProperty("user.dir")+"\\src\\dataExcel\\DataDriven.xlsx";
-	
-	String a[][] = excel.readData(ExcelLocation, "Registeration");
-	
-	for(String[] MyElements:a)
-	{	
-		for(String k:MyElements)
-		{
-			System.out.println(k);
-		}
-		
-	}
-}
+
 }

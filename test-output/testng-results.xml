@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55237" started-at="2017-10-08T04:18:01Z" finished-at="2017-10-08T04:18:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55237" started-at="2017-10-08T04:18:01Z" finished-at="2017-10-08T04:18:56Z">
+      <class name="testClass.DataDriverTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:testClass.DataDriverTest@1686d1f]" name="BeforeTest" is-config="true" duration-ms="20455" started-at="2017-10-08T09:48:01Z" finished-at="2017-10-08T09:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="Resgisterationtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClass.DataDriverTest@1686d1f]" name="Resgisterationtest" duration-ms="8568" started-at="2017-10-08T09:48:23Z" data-provider="getData" finished-at="2017-10-08T09:48:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nambu1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Eswar1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9665623526]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Nambu1@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234Nambu1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234Eswar1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Rameswar]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tamilnadu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[623524]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[INDIA ]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Nambu1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Eswar1]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Eswar1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Resgisterationtest -->
+        <test-method status="PASS" signature="Resgisterationtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClass.DataDriverTest@1686d1f]" name="Resgisterationtest" duration-ms="12087" started-at="2017-10-08T09:48:31Z" data-provider="getData" finished-at="2017-10-08T09:48:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nambu2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Eswar2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9665623527]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Nambu2@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234Nambu2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234Eswar2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ramanad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Andhra]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[623526]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[INDIA ]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Nambu2]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Eswar2]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Eswar2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Resgisterationtest -->
+        <test-method status="PASS" signature="Resgisterationtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClass.DataDriverTest@1686d1f]" name="Resgisterationtest" duration-ms="12433" started-at="2017-10-08T09:48:43Z" data-provider="getData" finished-at="2017-10-08T09:48:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nambu3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Eswar3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9665623528]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Nambu3@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234Nambu3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234Eswar3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Ahmedabad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[623528]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[INDIA ]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Nambu3]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Eswar3]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Eswar3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Resgisterationtest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:testClass.DataDriverTest@1686d1f]" name="AfterTest" is-config="true" duration-ms="128" started-at="2017-10-08T09:48:56Z" finished-at="2017-10-08T09:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testClass.DataDriverTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
